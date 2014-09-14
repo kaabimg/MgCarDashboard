@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/settings_icon.png</file>
+        <file>resources/images/information_icon.png</file>
+        <file>resources/images/gps_icon.png</file>
+        <file>resources/images/drive_icon.png</file>
+        <file>resources/images/camera_icon.png</file>
+        <file>resources/images/battery_icon.png</file>
+        <file>resources/images/music_icon.png</file>
+        <file>resources/3d/prius.obj</file>
+        <file>resources/images/triangle.svg</file>
+        <file>resources/images/triangle.png</file>
+    </qresource>
+</RCC>

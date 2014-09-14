@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/arc_flat.fsh</file>
+        <file>shaders/arc.vsh</file>
+        <file>shaders/arc_inner_radius_to_outer_radius_exponential_gradient.fsh</file>
+        <file>shaders/arc_inner_radius_to_outer_radius_linear_gradient.fsh</file>
+        <file>shaders/arc_glow.fsh</file>
+        <file>shaders/arc_glow_thin.fsh</file>
+        <file>shaders/line.vsh</file>
+        <file>shaders/line_flat.fsh</file>
+        <file>shaders/line_glow.fsh</file>
+    </qresource>
+</RCC>

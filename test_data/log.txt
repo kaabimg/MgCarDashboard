@@ -1,0 +1,17 @@
+MgCanUsbServer started 12:26PM on May 31, 2014
+Application log file : 'log.txt'
+Application data file : 'data'
+Found usb port at '/dev/ttyUSB0'
+Usb port successfully open
+Writing 'S6'
+Message received : 'ok'
+Writing 'V'
+Message received : 'V1011'
+Message received : 'ok'
+Writing 'N'
+Message received : 'NP513'
+Message received : 'ok'
+Writing 'O'
+Message received : 'ok'
+Starting scan ...
+Closing usb port
